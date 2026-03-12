@@ -1,0 +1,20 @@
+{
+  "image": "C:\\Users\\SiumNSL\\Pi_Journal\\test_image.jpg",
+  "model": "C:\\Users\\SiumNSL\\Pi_Journal\\runs\\detect\\train\\weights\\best.pt",
+  "conf_threshold": 0.25,
+  "timestamp": "20260312_155530",
+  "detections": [
+    {
+      "id": 1,
+      "class": "dent",
+      "confidence": 0.8283682465553284,
+      "bbox": [
+        226.87808227539062,
+        185.388916015625,
+        423.3252258300781,
+        541.1388549804688
+      ]
+    }
+  ],
+  "total_detections": 1
+}
